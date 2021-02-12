@@ -6,7 +6,7 @@ In this project I used machine learning to analyze a credit card dataset and cre
 ## Results 
 ### Measures
 Balanced Accuracy Score:
-The accuracy score of a model is based on the differnce between the predicted values and actual values. 
+The accuracy score of a model is based on the difference between the predicted values and actual values. 
 
 Precision Score: 
 The precision score, also known as the positive predictive value, measures how likely a positive prediction is actually true. In other words, it is a measure of how reliable a positive classification is. Precision = TP/(TP+FP)
